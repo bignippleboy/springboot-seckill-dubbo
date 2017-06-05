@@ -1,0 +1,3 @@
+server:
+  context-path: /seckill
+  port: 8088
